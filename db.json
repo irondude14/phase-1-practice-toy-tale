@@ -10,7 +10,7 @@
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 9
     },
     {
       "id": 3,
@@ -27,26 +27,50 @@
     {
       "id": 5,
       "name": "Rex",
-      "image": "https://static.wikia.nocookie.net/disney/images/5/56/Profile_-_Rex.jpeg/revision/latest?cb=20190313050619",
+      "image": "https://m.media-amazon.com/images/I/71fGgg5ik2S._AC_SL1500_.jpg",
       "likes": 1
     },
     {
       "id": 6,
       "name": "Bo Peep",
       "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
+      "likes": 4
     },
     {
       "id": 7,
       "name": "Hamm",
       "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
+      "likes": 2
     },
     {
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": 1
+      "likes": 3
+    },
+    {
+      "name": "Lenny",
+      "image": "https://imgs.search.brave.com/sLhVIRdqnhSEiOnjgYXV6jyYmWWTsPo3slaMknUycRE/rs:fit:284:205:1/g:ce/aHR0cDovL3ZpZ25l/dHRlNC53aWtpYS5u/b2Nvb2tpZS5uZXQv/ZGlzbmV5L2ltYWdl/cy8yLzI0L1BpeGFy/X3RveV9zdG9yeV9s/ZW5ueV9jYXAuanBn/L3JldmlzaW9uL2xh/dGVzdD9jYj0yMDE2/MDkwMzIxMzcwNQ",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "Babyface",
+      "image": "https://imgs.search.brave.com/2_qQajaN__2PM8rpwnVBk3laL_qjWBPDL2oSOCtYceg/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly8xLmJw/LmJsb2dzcG90LmNv/bS8tUkFTLUhoNHVo/dDgvVjl4WEo0emEt/QUkvQUFBQUFBQUFW/ZE0vTmZfbG9rQUhN/VUl1T1E0Q09UYnF5/c2JwRTg2ZTdRVk1n/Q0V3L3MxNjAwL3Rv/eS1zdG9yeS1iYWJ5/LWZhY2UtZmlndXJl/LmpwZw",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "Jessie",
+      "image": "https://imgs.search.brave.com/cG_GZ2zsuQll4jzLuqvV7rgLtPEScuOo_wbexkF5eFA/rs:fit:750:800:1/g:ce/aHR0cHM6Ly9jZG4x/MS5iaWdjb21tZXJj/ZS5jb20vcy01eWxu/ZWk2b3I1L2ltYWdl/cy9zdGVuY2lsLzgw/MHg4MDAvcHJvZHVj/dHMvMTk4OS81MDU2/LzI5MzZfSmVzc2ll/X1RTNF8yOF9fNzcz/ODMuMTU1OTI0OTQy/MS5qcGc_Yz0yJmlt/YnlwYXNzPW9u",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "name": "Sarge",
+      "image": "https://imgs.search.brave.com/yqIUBJ2bIQv4H8xipW-u2Hb6FB8vcWaX202EuXD-7UM/rs:fit:459:800:1/g:ce/aHR0cDovL2ltZy5h/bWlhbWkuanAvaW1h/Z2VzL3Byb2R1Y3Qv/cmV2aWV3LzE3Mi9G/SUdVUkUtMDMxMTMy/XzAxLmpwZw",
+      "likes": 0,
+      "id": 12
     }
   ]
 }
